@@ -54,7 +54,7 @@ Before using this program, make sure you have the following:
 ## Usage
 1. Open the script and update the playlist_ids:
   - Locate the playlist_ids variable in the script.
-  - Replace the placeholder IDs with your own Spotify playlist IDs
+  - Replace the placeholder IDs with your own Spotify playlist IDs (everything after '/playlist/' in the share playlist link.
   - example:
     ```bash
     playlist_ids = ["somestringoflettersandnumbers", "anotherstringofletters"]
